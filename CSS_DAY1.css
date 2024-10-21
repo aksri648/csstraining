@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.jk{
+    background-color: red;
+    color:white;
+
+}
+.jk .c1{
+    background-color: aqua;
+    color:black;
+}
